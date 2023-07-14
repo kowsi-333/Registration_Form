@@ -1,0 +1,29 @@
+body{
+    background:greenyellow;
+}
+#heading{
+    color:rgb(52, 19, 241);
+    text-align: center;
+    margin :auto;
+    height:65px;
+    width:500px;
+    background: rgb(246, 110, 132);
+    padding-top:1px;
+    font-style:italic;
+    
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    box-shadow: 5px 5px 5px  rgb(255, 255, 255);
+}
+h1{
+    text-shadow:2px 2px 2px white;
+}
+form{
+    background: rgb(164, 244, 233);
+    color:black;
+    margin:auto;
+    text-align:center;
+    width:400px;
+    margin-top:50px;
+
+}
